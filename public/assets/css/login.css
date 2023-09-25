@@ -1,0 +1,34 @@
+/* Styles for login.blade.php and register.blade.php */
+
+body {
+    background-image: url(../images/bgbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .row.justify-content-center {
+    margin-top: 150px;
+  }
+  
+  .form-registration {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  .logo img {
+    width: 150px;
+    height: auto;
+  }
+  
+  .alert-danger {
+    margin-bottom: 1rem;
+  }
+  

@@ -1,0 +1,53 @@
+
+.container {
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-heading {
+  margin-bottom: 20px;
+}
+
+.panel-heading {
+  display: flex;
+  justify-content: flex-start; /* Mengatur posisi tombol "Back" ke kiri */
+  margin-bottom: 10px;
+}
+
+.panel-heading .btn {
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.table th {
+  background-color: #f5f5f5;
+  color: #333; /* Warna teks pada header kolom */
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+body {
+  padding: 6rem;
+  background-image: url(../images/slider-right-dec.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+

@@ -1,0 +1,49 @@
+/* CRUD CSS */
+
+/* Styles for index.blade.php */
+.card-header {
+  margin-bottom: 1rem;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+/* Styles for created.blade.php and edit.blade.php */
+.row {
+  margin-bottom: 2rem;
+}
+
+.col-md-6 {
+  margin: 0 auto;
+  max-width: 30rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.form-control {
+  margin-bottom: 1rem;
+}
+
+.btn-group {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Global styles */
+body {
+  padding: 6rem;
+  background-image: url(../images/slider-right-dec.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.alert-danger {
+  margin-bottom: 1rem;
+}
+
+.text-danger {
+  color: red;
+}
