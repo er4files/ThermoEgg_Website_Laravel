@@ -67,8 +67,8 @@
         <div class="row">
           <div class="col-lg-8 col-sm-8 col-7">
             <ul class="info">
-              <li><a href="mailto:thermoeggcentre@gmail.com" target="_blank"><i class="fa fa-envelope"></i>thermoeggcentre@gmail.com</a></li>
-              <li><a href="https://wa.me/6282244286612" target="_blank"><i class="fa fa-phone"></i>+62 822-4428-6612</a></li>
+              <li><a href="mailto:thermoegg@gmail.com" target="_blank"><i class="fa fa-envelope"></i>thermoeggcentre@gmail.com</a></li>
+              <li><a href="https://wa.me/6282249876612" target="_blank"><i class="fa fa-phone"></i>+62 822-9738-6612</a></li>
             </ul>
           </div>
           <div class="col-lg-4 col-sm-4 col-5">
@@ -414,10 +414,10 @@
                 <a href="#">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{ asset('assets/images/era.jpg')}}" alt="">
+                    <img src="{{ asset('assets/images/elonmusk.jpg')}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Rahmad Era Sugiarto</h4>
+                    <h4>Elon Musk</h4>
                     <span>Programmer</span>
                   </div>
                 </div>
@@ -427,10 +427,10 @@
                 <a href="#">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{ asset('assets/images/johardio.jpg')}}" alt="">
+                    <img src="{{ asset('assets/images/jokowi.jpg')}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Johardio Eka Putra Ariv</h4>
+                    <h4>Jokowi</h4>
                     <span>Network Manager</span>
                   </div>
                 </div>
@@ -440,10 +440,10 @@
                 <a href="#">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{ asset('assets/images/tutik.jpg')}}" alt="">
+                    <img src="{{ asset('assets/images/jokowi.jpg')}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Tutik Noer Kholifah</h4>
+                    <h4>Jokowi</h4>
                     <span>Miliyarder</span>
                   </div>
                 </div>
@@ -512,7 +512,7 @@
                         <div class="info-post">
                           <div class="icon">
                             <img src="{{ asset('assets/images/phone-icon.png')}}" alt="">
-                            <a href="https://wa.me/6282244286612" target="_blank">+62 822-4428-6612</a>
+                            <a href="https://wa.me/6282752866102" target="_blank">+62 822-0868-6612</a>
                           </div>
                         </div>
                       </div>
@@ -520,7 +520,7 @@
                         <div class="info-post">
                           <div class="icon">
                             <img src="{{ asset('assets/images/email-icon.png')}}" alt="">
-                            <a href="mailto:thermoeggcentre@gmail.com" target="_blank">thermoeggcentre
+                            <a href="mailto:thermoegg@gmail.com" target="_blank">thermoegg
                               @gmail.com</a>
                           </div>
                         </div>
@@ -569,7 +569,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <p>Copyright © 2023 Workshop Pemrograman Web. All Rights Reserved. 
+            <p>Copyright © 2023 er4files. All Rights Reserved. 
             <br>Design: <a href="#" target="_parent" title="free css templates">Teknik Komputer</a></p>
           </div>
         </div>
